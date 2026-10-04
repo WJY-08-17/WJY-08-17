@@ -1,16 +1,32 @@
 ## Hi there 👋
+# About Me
+> 姓名：王佳莹
+> 花名/昵称：鲁乙
+> 专业：数字媒体技术
 
-<!--
-**WJY-08-17/WJY-08-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Interests 兴趣方向
+数字媒体交互、AI媒介、3D建模、网页搭建、影像剪辑，对技术与艺术结合的创作很感兴趣。
 
-Here are some ideas to get you started:
+## Current Skills 目前会什么
+- 基础Office文档撰写；会简单图片修图；有一定文字撰写、整理资料的能力
+- 正在入门C++编程，初步了解Visual Studio
+- 审美积累，喜欢构思画面、氛围感场景设计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning 正在学习
+高等数学、C++程序设计、数字媒体相关专业基础课；同时在了解Markdown、GitHub基础使用。
+
+## What I Want to Build 想做什么
+希望可以参与人机交互小项目，尝试做简单视觉创意作品；想学习把代码和美术创意结合起来做数字媒体作品。
+
+## Preferred Role 希望承担的角色
+Artist / Designer，也愿意尝试Programmer，现阶段没有明确限定，愿意多学习尝试。
+
+## Strengths 擅长或者比较有信心的事情
+逻辑思考、文字整理、搜集查阅资料，共情力强，愿意沟通协作，对待任务认真，善于构思创意画面。
+
+## Contact 联系方式
+邮箱：917172584@qq.com
+## Other 其他
+非常喜欢技术和艺术融合的创作，希望可以在社团向各位学长学姐学习，愿意踏实完成分配的任务。
+## Other 其他
+非常喜欢技术和艺术融合的创作，希望可以在社团向各位学长学姐学习，愿意踏实完成分配的任务。
